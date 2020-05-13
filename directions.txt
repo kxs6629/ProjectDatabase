@@ -1,0 +1,10 @@
+Author: Kenny Scott
+Date of latest revision: 4/22/2020
+
+When ProjectUILayer is launched,the user will be presented with a login screen or the option to continue
+as guest. If the user is a student or faculty member in the database, they can sign in using their email
+address. If the login fails the user will automatically be signed in as guest.
+
+If the user is a faculty member, they will be presented with a list of options to modify various entries
+in the database. If the user is a student of public member, they will be able to find information of 
+existing projects.
