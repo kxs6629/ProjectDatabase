@@ -27,8 +27,8 @@ public class ProjectDataLayer {
     public ProjectDataLayer(){
         URI = "jdbc:mysql://localhost/project_db?autoReconnect=true&useSSL=false&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
         DRIVER = "com.mysql.cj.jdbc.Driver";
-        USER = "root";
-        PASSWORD = "student";
+        USER = "user_here";
+        PASSWORD = "password_here";
     }
 
     /**
